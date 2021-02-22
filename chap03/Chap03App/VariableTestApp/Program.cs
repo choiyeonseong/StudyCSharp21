@@ -46,6 +46,16 @@ namespace VariableTestApp
             ulong ulongMinVal = ulong.MinValue;
             ulong ulongMaxVal = ulong.MaxValue;
             Console.WriteLine($"ulong\t최소, 최대값은 {ulongMinVal}, {ulongMaxVal} 입니다.");
+            //float형
+            float fMinVal = float.MinValue, fMaxVal = float.MaxValue;
+            Console.WriteLine($"float\t최소, 최대값은 {fMinVal}, {fMaxVal} 입니다.");
+            //double형
+            double dMinVal = double.MinValue, dMaxVal = double.MaxValue;
+            Console.WriteLine($"double\t최소, 최대값은 {dMinVal}, {dMaxVal} 입니다.");
+            //decimal형
+            decimal dcMinVal = decimal.MinValue, dcMaxVal = decimal.MaxValue;
+            Console.WriteLine($"decimal\t최소, 최대값은 {dcMinVal}, {dcMaxVal} 입니다.");
         }
+        
     }
 }
