@@ -56,6 +56,5 @@ namespace VariableTestApp
             decimal dcMinVal = decimal.MinValue, dcMaxVal = decimal.MaxValue;
             Console.WriteLine($"decimal\t최소, 최대값은 {dcMinVal}, {dcMaxVal} 입니다.");
         }
-        
     }
 }
