@@ -51,6 +51,8 @@ namespace CalcTestApp
                 Console.WriteLine($"x의 값 : {x}");
             }*/
             mathz.PrintEven(x);
+
+            
         }
     }
 }
