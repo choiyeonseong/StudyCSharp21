@@ -4,12 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Animal
+namespace NewInheritTestApp
 {
-    class Program
+    class Animal    // 동물클래스
     {
-        static void Main(string[] args)
+        public string Name { get; set; }
+        public int Age { get; set; }
+
+        public void Breath()
         {
+            Console.WriteLine($"{this.Name}이 숨을 쉽니다.");
         }
     }
 }

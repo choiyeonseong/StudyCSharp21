@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3C29900F-EAC6-439D-A13C-CF5E07048CB2}</ProjectGuid>
+    <ProjectGuid>{4257D87E-50B6-4560-AA77-F5C100B8F61F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Animal</RootNamespace>
-    <AssemblyName>Animal</AssemblyName>
+    <RootNamespace>TupleTestApp</RootNamespace>
+    <AssemblyName>TupleTestApp</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,10 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Animal.cs" />
-    <Compile Include="Bird.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="Dog.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
