@@ -12,15 +12,15 @@ namespace TryCatchFinallyApp
         {
             try
             {
-                Console.Write("제수를 입력하세요 : ");
-                string temp = Console.ReadLine();   // string으로 입력받음
-                int divisor = int.Parse(temp);
-
                 Console.Write("피제수를 입력하세요 : ");
-                temp = Console.ReadLine();
+                string temp = Console.ReadLine();   // string으로 입력받음
                 int dividend = int.Parse(temp);
 
-                Console.WriteLine($"{divisor} / {dividend} = {Divide(divisor, dividend)}");
+                Console.Write("제수를 입력하세요 : ");
+                temp = Console.ReadLine();
+                int divisor = int.Parse(temp);
+
+                Console.WriteLine($"{dividend} / {divisor} = {Divide(dividend, divisor)}");
             }
             catch (NotImplementedException ex)
             {
@@ -44,11 +44,11 @@ namespace TryCatchFinallyApp
             }
         }
 
-        private static object Divide(int divisor, int dividend)
+        private static object Divide(int dividend, int divisor)
         {
             Console.WriteLine("나누기 시작!");
-            if (dividend == 0) throw new DivideByZeroException("피제수가 0이 입력되었습니다.");
-            return divisor / dividend;
+            if (divisor == 0) throw new DivideByZeroException("피제수가 0이 입력되었습니다.");
+            return dividend / divisor;
         }
     }
 }
