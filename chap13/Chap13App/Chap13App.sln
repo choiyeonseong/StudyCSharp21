@@ -7,7 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap13App", "Chap13App\Chap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallbackTestApp", "CallbackTestApp\CallbackTestApp.csproj", "{AEDF6FF8-E675-49F4-B78A-D7BB8A4F88DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateChainApp", "DelegateChainApp\DelegateChainApp.csproj", "{EB6E51D2-63D5-4175-BC34-EEF70A9FA09B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateChainApp", "DelegateChainApp\DelegateChainApp.csproj", "{EB6E51D2-63D5-4175-BC34-EEF70A9FA09B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateChain2App", "DelegateChain2App\DelegateChain2App.csproj", "{3C50BF2F-8910-43CC-8460-DD4B2F798D92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingEventApp", "UsingEventApp\UsingEventApp.csproj", "{EFEB602A-3A5F-4D29-A8C0-6D75A592E737}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{EB6E51D2-63D5-4175-BC34-EEF70A9FA09B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB6E51D2-63D5-4175-BC34-EEF70A9FA09B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB6E51D2-63D5-4175-BC34-EEF70A9FA09B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C50BF2F-8910-43CC-8460-DD4B2F798D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C50BF2F-8910-43CC-8460-DD4B2F798D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C50BF2F-8910-43CC-8460-DD4B2F798D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C50BF2F-8910-43CC-8460-DD4B2F798D92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFEB602A-3A5F-4D29-A8C0-6D75A592E737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFEB602A-3A5F-4D29-A8C0-6D75A592E737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFEB602A-3A5F-4D29-A8C0-6D75A592E737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFEB602A-3A5F-4D29-A8C0-6D75A592E737}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
