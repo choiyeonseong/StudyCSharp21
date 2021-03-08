@@ -28,13 +28,15 @@ PKNU C# 학습 리포지토리
 20. [WinForm](https://github.com/choiyeonseong/StudyCSharp21/tree/main/chap20/Chap20App)
 22. 가비지 컬렉션 
 
+------
+
 ## 주소록 프로그램
 
 - 이름, 전화번호, 주소
 - 주소 입력, 검색, 수정, 삭제, 전체 출력
 - 'address.dat' 파일에 저장, 불러오기
 
-------
+
 - 메뉴
  ![]()
 - 
