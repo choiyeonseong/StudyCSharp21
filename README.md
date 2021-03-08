@@ -30,7 +30,7 @@ PKNU C# 학습 리포지토리
 
 ------
 
-## 주소록 프로그램
+## 주소록  프로그램
 [실습코드](https://github.com/choiyeonseong/StudyCSharp21/tree/main/chap99/AddressBookApp)
 
 - 이름, 전화번호, 주소
