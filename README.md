@@ -31,6 +31,7 @@ PKNU C# 학습 리포지토리
 ------
 
 ## 주소록 프로그램
+[실습코드](https://github.com/choiyeonseong/StudyCSharp21/tree/main/chap99/AddressBookApp)
 
 - 이름, 전화번호, 주소
 - 주소 입력, 검색, 수정, 삭제, 전체 출력
@@ -41,8 +42,5 @@ PKNU C# 학습 리포지토리
 ![search](https://github.com/choiyeonseong/StudyCSharp21/blob/main/ref_images/search.png)
 ![update](https://github.com/choiyeonseong/StudyCSharp21/blob/main/ref_images/update.png)
 ![print_all](https://github.com/choiyeonseong/StudyCSharp21/blob/main/ref_images/print_all.png)
+
 ![delete](https://github.com/choiyeonseong/StudyCSharp21/blob/main/ref_images/delete.png) ![print_after_delete](https://github.com/choiyeonseong/StudyCSharp21/blob/main/ref_images/print_after_delete.png)
-
-
-
-[실습코드](https://github.com/choiyeonseong/StudyCSharp21/tree/main/chap99/AddressBookApp)
