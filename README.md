@@ -36,9 +36,13 @@ PKNU C# 학습 리포지토리
 - 주소 입력, 검색, 수정, 삭제, 전체 출력
 - 'address.dat' 파일에 저장, 불러오기
 
+![menu](https://github.com/choiyeonseong/StudyCSharp21/blob/main/ref_images/menu.jpg)
+![insert](https://github.com/choiyeonseong/StudyCSharp21/blob/main/ref_images/insert.jpg)
+![search](https://github.com/choiyeonseong/StudyCSharp21/blob/main/ref_images/search.jpg)
+![update](https://github.com/choiyeonseong/StudyCSharp21/blob/main/ref_images/update.jpg)
+![print_all](https://github.com/choiyeonseong/StudyCSharp21/blob/main/ref_images/print_all.jpg)
+![delete](https://github.com/choiyeonseong/StudyCSharp21/blob/main/ref_images/delete.jpg) ![print_after_delete](https://github.com/choiyeonseong/StudyCSharp21/blob/main/ref_images/print_after_delete.jpg)
 
-- 메뉴
- ![]()
-- 
+
 
 [실습코드](https://github.com/choiyeonseong/StudyCSharp21/tree/main/chap99/AddressBookApp)
