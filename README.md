@@ -1,12 +1,12 @@
 # StudyCSharp21
 
 PKNU C# 학습 리포지토리
-
+- [기본 문법 학습](#basic-c)
+- [고급 문법 학습](#advanced-c)
+- [주소록 프로그램](#주소록-프로그램)
 -------
 
 ## Basic C#
-
-기본 문법 학습
 
 1. [데이터 보관하기](https://github.com/choiyeonseong/StudyCSharp21/tree/main/chap03/Chap03App)
 4. [연산자](https://github.com/choiyeonseong/StudyCSharp21/tree/main/chap04/Chap04App)
@@ -19,8 +19,6 @@ PKNU C# 학습 리포지토리
 
 ## Advanced C#
 
-고급 문법 학습
-
 9. [일반화 프로그래밍](https://github.com/choiyeonseong/StudyCSharp21/tree/main/chap11/Chap11App)
 12. [예외 처리](https://github.com/choiyeonseong/StudyCSharp21/tree/main/chap12/ConsoleApp1)
 13. [대리자, 이벤트](https://github.com/choiyeonseong/StudyCSharp21/tree/main/chap13/Chap13App)
@@ -32,7 +30,7 @@ PKNU C# 학습 리포지토리
 
 ------
 
-## 주소록  프로그램
+## 주소록 프로그램
 [실습코드](https://github.com/choiyeonseong/StudyCSharp21/tree/main/chap99/AddressBookApp)
 
 - 이름, 전화번호, 주소
@@ -45,4 +43,5 @@ PKNU C# 학습 리포지토리
 ![update](https://github.com/choiyeonseong/StudyCSharp21/blob/main/ref_images/update.png)
 ![print_all](https://github.com/choiyeonseong/StudyCSharp21/blob/main/ref_images/print_all.png)
 
-![delete](https://github.com/choiyeonseong/StudyCSharp21/blob/main/ref_images/delete.png) ![print_after_delete](https://github.com/choiyeonseong/StudyCSharp21/blob/main/ref_images/print_after_delete.png)
+![delete](https://github.com/choiyeonseong/StudyCSharp21/blob/main/ref_images/delete.png) 
+![print_after_delete](https://github.com/choiyeonseong/StudyCSharp21/blob/main/ref_images/print_after_delete.png)
